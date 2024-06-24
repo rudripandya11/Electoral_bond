@@ -1,17 +1,27 @@
-# Electoral Bond Analysis with Pandas in Python
-**Description:** This repository contains a Jupyter Notebook (electoral_bond.ipynb) that utilizes pandas in Python to explore and analyze electoral bond data in India. The notebook delves into various aspects of electoral bonds, including:
+# Electoral Bond Analysis: Python (Pandas) & Power BI
+
+<br>This repository explores India's electoral bond data using Python's pandas library and visualizes the insights in a comprehensive Power BI report.
 <br>
-**Data Exploration:-**
-Loading and cleaning the electoral bond dataset using pandas functions.
-Descriptive statistics to understand the distribution of key variables.
-Visualizations (charts and graphs) to uncover patterns and trends.
+Jupyter Notebook (electoral_bond.ipynb):
 <br>
-**Bond Denominations:-**
-Analyzing the popularity of different bond denominations (₹1000, ₹10000, etc.).
-Identifying potential trends in denomination usage over time.
+Data Wrangling: Loads and cleans electoral bond data with pandas.
 <br>
-**Redemption Patterns:-**
-Examining trends in bond redemption by political parties (if data allows).
-Exploring potential correlations between denominations and redemption rates.
+Exploration & Analysis:
+Summarizes key variables with descriptive statistics.
+Uncovers patterns and trends through visualizations.
+<br>
+Bond Denominations:
+Analyzes popularity of different bond values (₹1000, ₹10000, etc.).
+Explores trends in denomination usage over time.
+<br>
+Redemption Analysis (if data allows):
+Examines trends in party-wise bond redemption.
+Investigates potential correlations between denominations and redemption rates.
+<br>
+Power BI Report (electoral_bond.pbix):
+
+Brings analysis to life with interactive dashboards and visualizations.
+Provides a visually compelling exploration of the data insights.
+This combination empowers in-depth exploration of electoral bond trends and facilitates clear communication of findings.
 <br>
 I hope this README provides a clear and informative overview of your Jupyter Notebook and the insights it offers!
