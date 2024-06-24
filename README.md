@@ -20,7 +20,7 @@ Examines trends in party-wise bond redemption.
 Investigates potential correlations between denominations and redemption rates.
 <br>
 
-**Power BI Report (electoral_bond.pbix):**
+**Power BI Report (electoral_bond.pbix)**
 <br>
 Brings analysis to life with interactive dashboards and visualizations.
 Provides a visually compelling exploration of the data insights.
