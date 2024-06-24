@@ -21,6 +21,7 @@ Investigates potential correlations between denominations and redemption rates.
 <br>
 
 **Power BI Report (electoral_bond.pbix):**
+<br>
 Brings analysis to life with interactive dashboards and visualizations.
 Provides a visually compelling exploration of the data insights.
 This combination empowers in-depth exploration of electoral bond trends and facilitates clear communication of findings.
